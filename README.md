@@ -15,7 +15,7 @@ GitHub repository for the prototype coming soon
 
 ## 🛠 Skills & Technologies
 
-I've used a large array of languages && tools:
+I've used a large [] of languages && tools:
 
 ### Programming Languages
 
@@ -25,7 +25,6 @@ I've used a large array of languages && tools:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 
 ### Frameworks & Libraries
 
@@ -34,7 +33,6 @@ I've used a large array of languages && tools:
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF5733?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 
 ### Databases
 
@@ -56,6 +54,13 @@ I've used a large array of languages && tools:
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
+### Currently Learning
+
+[![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
+[![Mojo](https://img.shields.io/badge/Mojo-E8710A?style=for-the-badge&logo=mojo&logoColor=white)](https://www.modular.com/mojo)
+
 ---
 
 ## 🧑‍💻 Contact Me
@@ -63,4 +68,4 @@ I've used a large array of languages && tools:
 Feel free to reach out! I'll try and respond ASAP.
 
 - 📧 wolfgang.romanowski0@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/wolfgang-romanowski)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wolfgang-romanowski-1052a52b6/)
