@@ -61,6 +61,11 @@ I've used a large [] of languages && tools:
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
 [![Mojo](https://img.shields.io/badge/Mojo-E8710A?style=for-the-badge&logo=mojo&logoColor=white)](https://www.modular.com/mojo)
 
+🎨 Learning Graphical Programming & Shaders
+
+- [The Book of Shaders](https://thebookofshaders.com) 
+- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003)
+
 ---
 
 ## 🧑‍💻 Contact Me
