@@ -1,7 +1,5 @@
 # Wolfgang Romanowski
 
-![Profile Banner](https://upload.wikimedia.org/wikipedia/commons/5/5b/Vinca_minor_Nashville.jpg)
-
 I am currently a third-year student at South East Technological University, pursuing a B.A. in Applied Computing.
 
 ---
@@ -9,8 +7,10 @@ I am currently a third-year student at South East Technological University, purs
 ## 🌐 Projects
 
 #### Currently working on a multiplayer game prototype in Unity 6.
-GitHub repository for the prototype coming soon
+GitHub repository for the prototype is private at present.
 
+#### Remaking a nanoGPT variant with upgrades via Pytorch & huggingface tensors. 
+Started remaking project after a year, will have a public repository in the next few weeks
 ---
 
 ## 🛠 Skills & Technologies
