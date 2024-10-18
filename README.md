@@ -15,7 +15,8 @@ GitHub repository for the prototype coming soon
 
 ## 🛠 Skills & Technologies
 
-I've used a large [] of languages && tools:
+I believe that even having minor understanding of a lot of moving components can make you a better problem solver, hence
+I try to learn a large amount of languages && tools:
 
 ### Programming Languages
 
